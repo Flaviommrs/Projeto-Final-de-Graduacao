@@ -1,0 +1,763 @@
+{
+	"kernelMeasures": [
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 72874,
+			"startExecutionTime": 1561592358882,
+			"endExecutionTime": 1561592358955
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 414664,
+			"startExecutionTime": 1561592358955,
+			"endExecutionTime": 1561592359369
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 504333,
+			"startExecutionTime": 1561592359369,
+			"endExecutionTime": 1561592359874
+		},
+		{
+			"kernel": "MAX_POOL_2D",
+			"executionTime": 30934,
+			"startExecutionTime": 1561592359874,
+			"endExecutionTime": 1561592359905
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 20453,
+			"startExecutionTime": 1561592359905,
+			"endExecutionTime": 1561592359925
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 480162,
+			"startExecutionTime": 1561592359925,
+			"endExecutionTime": 1561592360405
+		},
+		{
+			"kernel": "MAX_POOL_2D",
+			"executionTime": 16931,
+			"startExecutionTime": 1561592360405,
+			"endExecutionTime": 1561592360422
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 13379,
+			"startExecutionTime": 1561592360422,
+			"endExecutionTime": 1561592360436
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 7705,
+			"startExecutionTime": 1561592360436,
+			"endExecutionTime": 1561592360444
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 125776,
+			"startExecutionTime": 1561592360444,
+			"endExecutionTime": 1561592360569
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 9677,
+			"startExecutionTime": 1561592360569,
+			"endExecutionTime": 1561592360579
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 70825,
+			"startExecutionTime": 1561592360579,
+			"endExecutionTime": 1561592360650
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 103181,
+			"startExecutionTime": 1561592360650,
+			"endExecutionTime": 1561592360753
+		},
+		{
+			"kernel": "AVERAGE_POOL_2D",
+			"executionTime": 23236,
+			"startExecutionTime": 1561592360753,
+			"endExecutionTime": 1561592360776
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 5986,
+			"startExecutionTime": 1561592360776,
+			"endExecutionTime": 1561592360782
+		},
+		{
+			"kernel": "CONCATENATION",
+			"executionTime": 2108,
+			"startExecutionTime": 1561592360782,
+			"endExecutionTime": 1561592360784
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 12987,
+			"startExecutionTime": 1561592360784,
+			"endExecutionTime": 1561592360797
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 10130,
+			"startExecutionTime": 1561592360797,
+			"endExecutionTime": 1561592360808
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 125383,
+			"startExecutionTime": 1561592360808,
+			"endExecutionTime": 1561592360933
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 13408,
+			"startExecutionTime": 1561592360933,
+			"endExecutionTime": 1561592360946
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 71661,
+			"startExecutionTime": 1561592360946,
+			"endExecutionTime": 1561592361018
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 105651,
+			"startExecutionTime": 1561592361018,
+			"endExecutionTime": 1561592361124
+		},
+		{
+			"kernel": "AVERAGE_POOL_2D",
+			"executionTime": 30603,
+			"startExecutionTime": 1561592361124,
+			"endExecutionTime": 1561592361154
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 13516,
+			"startExecutionTime": 1561592361154,
+			"endExecutionTime": 1561592361168
+		},
+		{
+			"kernel": "CONCATENATION",
+			"executionTime": 2336,
+			"startExecutionTime": 1561592361168,
+			"endExecutionTime": 1561592361170
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 13541,
+			"startExecutionTime": 1561592361170,
+			"endExecutionTime": 1561592361184
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 11108,
+			"startExecutionTime": 1561592361184,
+			"endExecutionTime": 1561592361195
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 124305,
+			"startExecutionTime": 1561592361195,
+			"endExecutionTime": 1561592361319
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 13448,
+			"startExecutionTime": 1561592361319,
+			"endExecutionTime": 1561592361333
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 71356,
+			"startExecutionTime": 1561592361333,
+			"endExecutionTime": 1561592361404
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 104381,
+			"startExecutionTime": 1561592361404,
+			"endExecutionTime": 1561592361509
+		},
+		{
+			"kernel": "AVERAGE_POOL_2D",
+			"executionTime": 34244,
+			"startExecutionTime": 1561592361509,
+			"endExecutionTime": 1561592361543
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 13667,
+			"startExecutionTime": 1561592361543,
+			"endExecutionTime": 1561592361557
+		},
+		{
+			"kernel": "CONCATENATION",
+			"executionTime": 2492,
+			"startExecutionTime": 1561592361557,
+			"endExecutionTime": 1561592361559
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 172656,
+			"startExecutionTime": 1561592361559,
+			"endExecutionTime": 1561592361732
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 17403,
+			"startExecutionTime": 1561592361732,
+			"endExecutionTime": 1561592361749
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 74813,
+			"startExecutionTime": 1561592361749,
+			"endExecutionTime": 1561592361824
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 26755,
+			"startExecutionTime": 1561592361824,
+			"endExecutionTime": 1561592361851
+		},
+		{
+			"kernel": "MAX_POOL_2D",
+			"executionTime": 5647,
+			"startExecutionTime": 1561592361851,
+			"endExecutionTime": 1561592361856
+		},
+		{
+			"kernel": "CONCATENATION",
+			"executionTime": 1202,
+			"startExecutionTime": 1561592361856,
+			"endExecutionTime": 1561592361858
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 23425,
+			"startExecutionTime": 1561592361858,
+			"endExecutionTime": 1561592361881
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 17507,
+			"startExecutionTime": 1561592361881,
+			"endExecutionTime": 1561592361899
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 30480,
+			"startExecutionTime": 1561592361899,
+			"endExecutionTime": 1561592361929
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 38482,
+			"startExecutionTime": 1561592361929,
+			"endExecutionTime": 1561592361968
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 17652,
+			"startExecutionTime": 1561592361968,
+			"endExecutionTime": 1561592361985
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 30649,
+			"startExecutionTime": 1561592361985,
+			"endExecutionTime": 1561592362016
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 30335,
+			"startExecutionTime": 1561592362016,
+			"endExecutionTime": 1561592362046
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 30132,
+			"startExecutionTime": 1561592362046,
+			"endExecutionTime": 1561592362076
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 37173,
+			"startExecutionTime": 1561592362076,
+			"endExecutionTime": 1561592362114
+		},
+		{
+			"kernel": "AVERAGE_POOL_2D",
+			"executionTime": 20231,
+			"startExecutionTime": 1561592362114,
+			"endExecutionTime": 1561592362134
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 23504,
+			"startExecutionTime": 1561592362134,
+			"endExecutionTime": 1561592362157
+		},
+		{
+			"kernel": "CONCATENATION",
+			"executionTime": 1163,
+			"startExecutionTime": 1561592362157,
+			"endExecutionTime": 1561592362159
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 24415,
+			"startExecutionTime": 1561592362159,
+			"endExecutionTime": 1561592362183
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 21224,
+			"startExecutionTime": 1561592362183,
+			"endExecutionTime": 1561592362204
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 45875,
+			"startExecutionTime": 1561592362204,
+			"endExecutionTime": 1561592362250
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 46618,
+			"startExecutionTime": 1561592362250,
+			"endExecutionTime": 1561592362297
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 25773,
+			"startExecutionTime": 1561592362297,
+			"endExecutionTime": 1561592362323
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 42200,
+			"startExecutionTime": 1561592362323,
+			"endExecutionTime": 1561592362365
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 45844,
+			"startExecutionTime": 1561592362365,
+			"endExecutionTime": 1561592362411
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 40368,
+			"startExecutionTime": 1561592362411,
+			"endExecutionTime": 1561592362451
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 46948,
+			"startExecutionTime": 1561592362451,
+			"endExecutionTime": 1561592362498
+		},
+		{
+			"kernel": "AVERAGE_POOL_2D",
+			"executionTime": 20173,
+			"startExecutionTime": 1561592362498,
+			"endExecutionTime": 1561592362518
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 23311,
+			"startExecutionTime": 1561592362518,
+			"endExecutionTime": 1561592362542
+		},
+		{
+			"kernel": "CONCATENATION",
+			"executionTime": 1141,
+			"startExecutionTime": 1561592362542,
+			"endExecutionTime": 1561592362543
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 23436,
+			"startExecutionTime": 1561592362543,
+			"endExecutionTime": 1561592362566
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 19775,
+			"startExecutionTime": 1561592362566,
+			"endExecutionTime": 1561592362586
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 41438,
+			"startExecutionTime": 1561592362586,
+			"endExecutionTime": 1561592362627
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 46237,
+			"startExecutionTime": 1561592362627,
+			"endExecutionTime": 1561592362674
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 20865,
+			"startExecutionTime": 1561592362674,
+			"endExecutionTime": 1561592362695
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 42194,
+			"startExecutionTime": 1561592362695,
+			"endExecutionTime": 1561592362737
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 55848,
+			"startExecutionTime": 1561592362737,
+			"endExecutionTime": 1561592362793
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 46262,
+			"startExecutionTime": 1561592362793,
+			"endExecutionTime": 1561592362839
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 51129,
+			"startExecutionTime": 1561592362839,
+			"endExecutionTime": 1561592362890
+		},
+		{
+			"kernel": "AVERAGE_POOL_2D",
+			"executionTime": 20285,
+			"startExecutionTime": 1561592362890,
+			"endExecutionTime": 1561592362910
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 27351,
+			"startExecutionTime": 1561592362910,
+			"endExecutionTime": 1561592362938
+		},
+		{
+			"kernel": "CONCATENATION",
+			"executionTime": 1178,
+			"startExecutionTime": 1561592362938,
+			"endExecutionTime": 1561592362939
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 24889,
+			"startExecutionTime": 1561592362939,
+			"endExecutionTime": 1561592362964
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 29100,
+			"startExecutionTime": 1561592362964,
+			"endExecutionTime": 1561592362993
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 54805,
+			"startExecutionTime": 1561592362993,
+			"endExecutionTime": 1561592363048
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 60391,
+			"startExecutionTime": 1561592363048,
+			"endExecutionTime": 1561592363108
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 25056,
+			"startExecutionTime": 1561592363108,
+			"endExecutionTime": 1561592363133
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 57667,
+			"startExecutionTime": 1561592363133,
+			"endExecutionTime": 1561592363191
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 57342,
+			"startExecutionTime": 1561592363191,
+			"endExecutionTime": 1561592363248
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 60163,
+			"startExecutionTime": 1561592363248,
+			"endExecutionTime": 1561592363308
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 54094,
+			"startExecutionTime": 1561592363309,
+			"endExecutionTime": 1561592363363
+		},
+		{
+			"kernel": "AVERAGE_POOL_2D",
+			"executionTime": 20226,
+			"startExecutionTime": 1561592363363,
+			"endExecutionTime": 1561592363383
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 23494,
+			"startExecutionTime": 1561592363383,
+			"endExecutionTime": 1561592363406
+		},
+		{
+			"kernel": "CONCATENATION",
+			"executionTime": 1244,
+			"startExecutionTime": 1561592363406,
+			"endExecutionTime": 1561592363408
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 23798,
+			"startExecutionTime": 1561592363408,
+			"endExecutionTime": 1561592363431
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 32539,
+			"startExecutionTime": 1561592363431,
+			"endExecutionTime": 1561592363464
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 27318,
+			"startExecutionTime": 1561592363464,
+			"endExecutionTime": 1561592363491
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 59811,
+			"startExecutionTime": 1561592363491,
+			"endExecutionTime": 1561592363551
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 55280,
+			"startExecutionTime": 1561592363551,
+			"endExecutionTime": 1561592363606
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 20067,
+			"startExecutionTime": 1561592363606,
+			"endExecutionTime": 1561592363627
+		},
+		{
+			"kernel": "MAX_POOL_2D",
+			"executionTime": 3191,
+			"startExecutionTime": 1561592363627,
+			"endExecutionTime": 1561592363630
+		},
+		{
+			"kernel": "CONCATENATION",
+			"executionTime": 329,
+			"startExecutionTime": 1561592363630,
+			"endExecutionTime": 1561592363630
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 20036,
+			"startExecutionTime": 1561592363630,
+			"endExecutionTime": 1561592363650
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 28313,
+			"startExecutionTime": 1561592363650,
+			"endExecutionTime": 1561592363678
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 24462,
+			"startExecutionTime": 1561592363678,
+			"endExecutionTime": 1561592363703
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 22779,
+			"startExecutionTime": 1561592363703,
+			"endExecutionTime": 1561592363726
+		},
+		{
+			"kernel": "CONCATENATION",
+			"executionTime": 227,
+			"startExecutionTime": 1561592363726,
+			"endExecutionTime": 1561592363726
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 25536,
+			"startExecutionTime": 1561592363726,
+			"endExecutionTime": 1561592363752
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 88310,
+			"startExecutionTime": 1561592363752,
+			"endExecutionTime": 1561592363840
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 23229,
+			"startExecutionTime": 1561592363840,
+			"endExecutionTime": 1561592363863
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 22910,
+			"startExecutionTime": 1561592363863,
+			"endExecutionTime": 1561592363886
+		},
+		{
+			"kernel": "CONCATENATION",
+			"executionTime": 244,
+			"startExecutionTime": 1561592363886,
+			"endExecutionTime": 1561592363886
+		},
+		{
+			"kernel": "AVERAGE_POOL_2D",
+			"executionTime": 6944,
+			"startExecutionTime": 1561592363886,
+			"endExecutionTime": 1561592363893
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 10431,
+			"startExecutionTime": 1561592363893,
+			"endExecutionTime": 1561592363904
+		},
+		{
+			"kernel": "CONCATENATION",
+			"executionTime": 598,
+			"startExecutionTime": 1561592363904,
+			"endExecutionTime": 1561592363904
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 27617,
+			"startExecutionTime": 1561592363904,
+			"endExecutionTime": 1561592363932
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 34213,
+			"startExecutionTime": 1561592363932,
+			"endExecutionTime": 1561592363966
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 23942,
+			"startExecutionTime": 1561592363966,
+			"endExecutionTime": 1561592363990
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 24998,
+			"startExecutionTime": 1561592363990,
+			"endExecutionTime": 1561592364015
+		},
+		{
+			"kernel": "CONCATENATION",
+			"executionTime": 216,
+			"startExecutionTime": 1561592364015,
+			"endExecutionTime": 1561592364015
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 41718,
+			"startExecutionTime": 1561592364015,
+			"endExecutionTime": 1561592364057
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 78309,
+			"startExecutionTime": 1561592364057,
+			"endExecutionTime": 1561592364135
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 23361,
+			"startExecutionTime": 1561592364135,
+			"endExecutionTime": 1561592364159
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 26920,
+			"startExecutionTime": 1561592364159,
+			"endExecutionTime": 1561592364186
+		},
+		{
+			"kernel": "CONCATENATION",
+			"executionTime": 219,
+			"startExecutionTime": 1561592364186,
+			"endExecutionTime": 1561592364186
+		},
+		{
+			"kernel": "AVERAGE_POOL_2D",
+			"executionTime": 11180,
+			"startExecutionTime": 1561592364186,
+			"endExecutionTime": 1561592364197
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 16303,
+			"startExecutionTime": 1561592364197,
+			"endExecutionTime": 1561592364214
+		},
+		{
+			"kernel": "CONCATENATION",
+			"executionTime": 609,
+			"startExecutionTime": 1561592364214,
+			"endExecutionTime": 1561592364214
+		},
+		{
+			"kernel": "AVERAGE_POOL_2D",
+			"executionTime": 811,
+			"startExecutionTime": 1561592364214,
+			"endExecutionTime": 1561592364215
+		},
+		{
+			"kernel": "CONV_2D",
+			"executionTime": 31993,
+			"startExecutionTime": 1561592364215,
+			"endExecutionTime": 1561592364247
+		},
+		{
+			"kernel": "RESHAPE",
+			"executionTime": 6,
+			"startExecutionTime": 1561592364247,
+			"endExecutionTime": 1561592364247
+		},
+		{
+			"kernel": "SOFTMAX",
+			"executionTime": 267,
+			"startExecutionTime": 1561592364247,
+			"endExecutionTime": 1561592364247
+		}
+	],
+	"inferenceTime": 5365370,
+	"startInferenceTime": 1561592358882,
+	"endInferenceTime": 1561592364247
+}
